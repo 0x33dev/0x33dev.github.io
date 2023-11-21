@@ -53,24 +53,50 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>R&D</mark> and <mark>Eating Ice-Cream</mark>
 
 content:
+  -title: Technical Skills
+   layout: list
+   content:
+    - layout: left
+      subtitle: Blockchain & Framework
+      description: Ethereum, Binance, Polygon, Hyperledger Fabric
+    - layout: left
+      subtitle: Languages
+      description: Solidity, Fabric Client-SDKs, Node.js, Javascript, jQuery, Html/CSS, Web3, ethers, IPFS
+    - layout: left
+      subtitle: Databases
+      description: MongoDB, SQL
+    - layout: left
+      subtitle: Operating Systems
+      description: macOS, Linux
+    - layout: left
+      subtitle: IDE’s
+      description: Visual Studio Code, Remix IDE, Postman
+    - layout: left
+      subtitle: Source Control 
+      description: Gitlab, GitHub
+    - layout: left
+      subtitle: Project Management Tools 
+      description: Trello, Jira, Basecamp
+    - layout: left
+      subtitle: Communication Tools 
+      description: Skype, Slack, MsTeams
+    - layout: left
+      subtitle: Cloud service 
+      description: AWS
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        title: NFT Talent
+
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          This is probably one of the greatest nft marketplace ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          I started this project as a way if learning <mark>NFT fundamentals</mark> and it has since grown into a fully fledged marketplace. I have learned many skills through this and been I'm very proud of having this in my portfolio.NFT Talent is a marketplace to create, sell, trade NFTs on multiple blockchains such as Ethereum, Polygon, BSC, Avalanche. Users can create ERC721 and ERC1155 tokens and trade them for the respective chain’s native token.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
