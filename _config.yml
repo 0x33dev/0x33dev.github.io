@@ -59,35 +59,27 @@ content:
     - layout: left
       sub_title: Blockchain & Framework
       description: Ethereum, Binance, Polygon, Hyperledger Fabric
-
     - layout: left
       sub_title: Languages
       description: Solidity, Fabric Client-SDKs, Node.js, Javascript, jQuery, Html/CSS, Web3, ethers, IPFS
-    
     - layout: left
       sub_title: Databases
       description: MongoDB, SQL
-    
     - layout: left
       sub_title: Operating Systems
       description: macOS, Linux
-    
     - layout: left
       sub_title: IDE’s
       description: Visual Studio Code, Remix IDE, Postman
-    
     - layout: left
       sub_title: Source Control 
       description: Gitlab, GitHub
-    
     - layout: left
       sub_title: Project Management Tools 
       description: Trello, Jira, Basecamp
-    
     - layout: left
       sub_title: Communication Tools 
       description: Skype, Slack, MsTeams
-    
     - layout: left
       sub_title: Cloud service 
       description: AWS
