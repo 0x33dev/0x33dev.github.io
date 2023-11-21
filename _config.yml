@@ -15,25 +15,25 @@ website: www.github.com/sproogen/resume-theme
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: https://twitter.com/its_backpacker
+github_username:  https://github.com/0x33dev
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+#instagram_username: jameswgrant
+linkedin_username: https://www.linkedin.com/in/rajput-mahesh/
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+- title: Stack Exchange Ethereum
+  icon: fas fa-stack-exchange
+  url: https://ethereum.stackexchange.com/users/47778/mahesh-rajput
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,9 +48,13 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+ Meet Mahesh, a seasoned blockchain and Web3 developer specializing in Ethereum Virtual Machine (EVM) technologies. Proficient in Solidity, they've crafted smart contracts adhering to ERC20, ERC1155, ERC721, ERC721a, and ERC-777 standards. They're well-versed in EIP-712 and ERC-2981, adding extra depth to their knowledge.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+With hands-on experience in NFT marketplace development, 0x33 seamlessly integrates Node.js backend and HTML/CSS frontend. But expertise doesn't stop at Ethereum. 0x33 has ventured into Hyperledger Fabric and Solana, expanding their blockchain prowess. Currently mastering Solana and Web3.js, 0x33 is committed to staying ahead in blockchain advancements.
+
+In the dynamic realm of blockchain tech, 0x33 is your adaptable, knowledgeable, and innovative developer.
+
+  I am most skilled in: <mark>Solidity</mark> and <mark>Eating Ice-Cream</mark>
 
 content:
   - title: Projects # Title for the section
@@ -76,11 +80,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Yudiz Solutions
+        link: yudiz.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Functional Manager at Blockchain Department
+        caption: December 2018 - Present
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
@@ -90,9 +94,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
+        title: GLS University
         caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        sub_title: MSc Computer Science in Information Technology
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
