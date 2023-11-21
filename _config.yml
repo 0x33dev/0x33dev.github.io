@@ -52,10 +52,10 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>R&D</mark> and <mark>Eating Ice-Cream</mark>
 
-content:
- - title: Technical Skills
-   layout: list
-   content:
+
+ - title: Technical Skills # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
     - layout: left
       subtitle: Blockchain & Framework
       description: Ethereum, Binance, Polygon, Hyperledger Fabric
