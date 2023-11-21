@@ -32,7 +32,7 @@ linkedin_username: https://www.linkedin.com/in/rajput-mahesh/
 # Additional icon links
 additional_links:
 - title: Stack Exchange Ethereum
-  icon: fas fa-stack-exchange
+  icon: fab fa-stack-exchange
   url: https://ethereum.stackexchange.com/users/47778/mahesh-rajput
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Meet Mahesh, a seasoned blockchain and Web3 developer specializing in Ethereum Virtual Machine (EVM) technologies. Proficient in Solidity, they've crafted smart contracts adhering to ERC20, ERC1155, ERC721, ERC721a, and ERC-777 standards. They're well-versed in EIP-712 and ERC-2981, adding extra depth to their knowledge. With hands-on experience in NFT marketplace development, 0x33 seamlessly integrates Node.js backend and HTML/CSS frontend. But expertise doesn't stop at Ethereum. 0x33 has ventured into Hyperledger Fabric and Solana, expanding their blockchain prowess. Currently mastering Solana and Web3.js, 0x33 is committed to staying ahead in blockchain advancements. In the dynamic realm of blockchain tech, 0x33 is your adaptable, knowledgeable, and innovative developer.
+  Meet Mahesh, a seasoned blockchain and Web3 developer specializing in Ethereum Virtual Machine (EVM) technologies. Proficient in Solidity, they've crafted smart contracts adhering to ERC20, ERC1155, ERC721, ERC721a, and ERC-777 standards. They're well-versed in EIP-712 and ERC-2981, adding extra depth to their knowledge. With hands-on experience in NFT marketplace development, Mahesh seamlessly integrates Node.js backend and HTML/CSS frontend. But expertise doesn't stop at Ethereum. Currently mastering Hyperledger Fabric and Angular, mahesh is committed to staying ahead in blockchain advancements. In the dynamic realm of blockchain tech, mahesh is your adaptable, knowledgeable, and innovative developer.
 
-  I am most skilled in: <mark>Solidity</mark> and <mark>Eating Ice-Cream</mark>
+  I am most skilled in: <mark>R&D</mark> and <mark>Eating Ice-Cream</mark>
 
 content:
   - title: Projects # Title for the section
@@ -94,11 +94,11 @@ content:
         caption: 2010 - 2013
         sub_title: MSc Computer Science in Information Technology
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          GLS University is a private university located in Ahmedabad, Gujarat, India. The university was established in 2015 by the Gujarat Law Society (GLS) through The Gujarat Private Universities (Amendment) Act, 2015
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at GLS University I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          I spent a lot of my free time as a taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: A Little More About Me
     layout: text
@@ -106,12 +106,8 @@ content:
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       - Rock climbing
       - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](images/landscape-trees.jpg "Trees")
-
+      - Get information about cars
+      
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
