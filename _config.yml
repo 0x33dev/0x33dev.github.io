@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>R&D</mark> and <mark>Eating Ice-Cream</mark>
 
 content:
-  -title: Technical Skills
+ - title: Technical Skills
    layout: list
    content:
     - layout: left
