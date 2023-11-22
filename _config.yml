@@ -15,14 +15,14 @@ website: 0x33dev.github.io
 darkmode: false
 
 # Social links
-twitter_username: https://twitter.com/its_backpacker
-github_username:  https://github.com/0x33dev
+twitter_username: its_backpacker
+github_username:  0x33dev
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: jameswgrant
-linkedin_username: https://www.linkedin.com/in/rajput-mahesh/
+linkedin_username: rajput-mahesh/
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
